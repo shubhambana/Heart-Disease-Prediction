@@ -2,7 +2,7 @@
 
 A machine learning project that estimates the probability of heart disease from a patient's clinical parameters, served through an interactive Streamlit web app and a FastAPI REST backend.
 
-🔗 **Live Demo:** [Add your Streamlit app link here]
+🔗 **Live Demo:** [Streamlit App](https://heart-disease-prediction-2m9rumm9k6bsczwempmm49.streamlit.app)
 📓 **Notebook:** [Disease_Prediction.ipynb](./notebook/Disease_Prediction.ipynb)
 
 > **Disclaimer:** This is an educational portfolio project. It is not a medical device and must not be used for real diagnosis or treatment decisions.
